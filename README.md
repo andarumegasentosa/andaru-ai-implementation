@@ -57,7 +57,7 @@ Masukkan isi `andaru.md` sebagai **system message** di API call:
 # Contoh menggunakan Google Gemini API (Python)
 import google.generativeai as genai
 
-with open("context/andaru.md", "r", encoding="utf-8") as f:
+with open("andaru.md", "r", encoding="utf-8") as f:
     company_context = f.read()
 
 model = genai.GenerativeModel("gemini-1.5-pro")
@@ -80,7 +80,7 @@ import OpenAI from "openai";
 import fs from "fs";
 
 const client = new OpenAI();
-const companyContext = fs.readFileSync("context/andaru.md", "utf-8");
+const companyContext = fs.readFileSync("andaru.md", "utf-8");
 
 const response = await client.chat.completions.create({
   model: "gpt-4o",
@@ -154,3 +154,11 @@ Jelaskan perbedaan EPS vs PUR panel dalam bahasa yang mudah dipahami pemilik UMK
 - **Update `andaru.md` secara berkala** jika ada perubahan data perusahaan (proyek baru, produk baru, target pasar baru).
 
 ---
+
+## Struktur Folder
+
+```
+andaru-ai-implementation/
+├── andaru.md        ← Profil perusahaan (konteks utama)
+└── README.md        ← Panduan penggunaan (file ini)
+```
