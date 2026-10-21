@@ -6,7 +6,7 @@
 
 **Nama Resmi:** PT Andaru Mega Sentosa
 **Website:** https://www.andarumegasentosa.com
-**Kontak:** WA/HP 0812 1000 0454
+**Kontak:** WA/HP 0821 7406 0015
 **Jam Layanan:** Senin–Sabtu, 08.00–17.00 WIB
 **Media Sosial:** YouTube · Instagram · Facebook · TikTok
 
@@ -37,9 +37,9 @@ Menjadi pemasok yang mudah diajak kerja: materialnya jelas, hitungannya terbuka,
 
 ### Angka Kinerja (per 2026)
 
-- **41+ proyek** selesai
-- **75+ klien** terlayani
-- **46+ vendor** mitra
+- **41 lebih proyek** selesai
+- **75 lebih klien** terlayani
+- **46 lebih vendor** mitra
 
 ---
 
